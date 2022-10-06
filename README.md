@@ -3,11 +3,11 @@
 This is a simple python project with a GUI that returns the age of the person whose details are entered.
 
 Inputs:
-Name
-Year of birth 
-Month of birth
+Name, 
+Year of birth, 
+Month of birth, 
 Day of birth
-(All numeric format)
+ (All numeric format)
 
 Output format:
 {NAME} your age is {YEARS}Year(s),{MONTH}Month(s),{DAYS}Day(s)
